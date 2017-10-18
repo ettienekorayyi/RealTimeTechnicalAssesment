@@ -1,0 +1,14 @@
+c:\users\stephen\documents\visual studio 2013\Projects\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe.config
+c:\users\stephen\documents\visual studio 2013\Projects\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe
+c:\users\stephen\documents\visual studio 2013\Projects\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.pdb
+c:\users\stephen\documents\visual studio 2013\Projects\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.exe
+c:\users\stephen\documents\visual studio 2013\Projects\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.pdb
+C:\Users\Stephen\Desktop\Job Hunt\RealTimeRandomization-master\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe.config
+C:\Users\Stephen\Desktop\Job Hunt\RealTimeRandomization-master\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.exe
+C:\Users\Stephen\Desktop\Job Hunt\RealTimeRandomization-master\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.pdb
+C:\Users\Stephen\Desktop\Job Hunt\RealTimeRandomization-master\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe
+C:\Users\Stephen\Desktop\Job Hunt\RealTimeRandomization-master\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.pdb
+C:\Users\Stephen\Desktop\Job Hunt\RealTimeRandomization-master\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe.config
+C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.exe
+C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.pdb

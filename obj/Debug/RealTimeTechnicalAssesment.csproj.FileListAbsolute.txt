@@ -14,3 +14,9 @@ C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeT
 C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.pdb
 C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe
 C:\Users\Stephen\Desktop\Job Hunt\Real Time\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.pdb
+C:\Users\Stephen\Documents\GitHub\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe.config
+C:\Users\Stephen\Documents\GitHub\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.exe
+C:\Users\Stephen\Documents\GitHub\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.pdb
+C:\Users\Stephen\Documents\GitHub\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.exe
+C:\Users\Stephen\Documents\GitHub\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\bin\Debug\RealTimeTechnicalAssesment.pdb
+C:\Users\Stephen\Documents\GitHub\RealTimeTechnicalAssesment\RealTimeTechnicalAssesment\obj\Debug\RealTimeTechnicalAssesment.csprojResolveAssemblyReference.cache

@@ -10,5 +10,6 @@ namespace RealTimeTechnicalAssesment.Model
     {
         public static List<int> ListOfNumbersToExclude { get; set; }
         public static List<int> RangeOfNumbers { get; set; }
+        public static string Valid { get; set; }
     }
 }

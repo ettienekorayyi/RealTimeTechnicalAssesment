@@ -23,8 +23,13 @@ namespace RealTimeTechnicalAssesment.Classes
         
         public static int Random(int low, int high)
         {
-            Numbers.RangeOfNumbers = Enumerable.Range(low, high).Where(i => !Numbers.ListOfNumbersToExclude.Contains(i)).ToList<int>();
-            return Numbers.RangeOfNumbers.ElementAt(GetInstance.Next(0, high - Numbers.ListOfNumbersToExclude.Count()));
+            Numbers.RangeOfNumbers = Enumerable.Range(low, Limit(low, high)).Where(i => !Numbers.ListOfNumbersToExclude.Contains(i)).ToList<int>();
+            return Numbers.RangeOfNumbers.ElementAt(GetInstance.Next(0, (Limit(low, high)) - Numbers.ListOfNumbersToExclude.Count()));
         }
+        private static int Limit(int low, int high)
+        {
+            return high - (low - 1);
+        }
+        
     }
 }

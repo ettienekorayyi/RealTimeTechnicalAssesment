@@ -12,12 +12,13 @@ namespace RealTimeTechnicalAssesment
     {
         static void Main(string[] args)
         {
+
             Console.Write("Please Enter a Low Number:");
             int low = int.Parse(Console.ReadLine());
             Console.Write("Please Enter a High Number:");
             int high = int.Parse(Console.ReadLine());
             Console.WriteLine();
-            
+
             new NumbersRepository().PopulateModel(low, high);
             Numbers.ListOfNumbersToExclude.ForEach(r => Console.WriteLine(r));
         }

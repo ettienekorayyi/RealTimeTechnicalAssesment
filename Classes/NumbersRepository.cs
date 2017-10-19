@@ -16,9 +16,15 @@ namespace RealTimeTechnicalAssesment.Classes
         }
         public void PopulateModel(int lowNumber, int highNumber)
         {
-            if (Numbers.ListOfNumbersToExclude.Count > (highNumber - 1)) return;
-            Numbers.ListOfNumbersToExclude.Add(Utility.Random(lowNumber, highNumber));
-            PopulateModel(lowNumber, highNumber);
+            if(InputValidator.IsValid(lowNumber,highNumber) == true)
+            {
+                if (Numbers.ListOfNumbersToExclude.Count >= (highNumber - (lowNumber - 1))) 
+                    return;
+                Numbers.ListOfNumbersToExclude.Add(Utility.Random(lowNumber, highNumber));
+                PopulateModel(lowNumber, highNumber);
+            }
+            else Console.WriteLine(Numbers.Valid);
         }
+        
     }
 }
